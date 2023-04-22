@@ -1,7 +1,7 @@
 {
-  "name": "lolkil-scraper",
-  "version": "1.0.7",
-  "description": "npm package scraped",
+  "name": "rullzz-scrapper",
+  "version": "1.0.0",
+  "description": "npm package scrapper",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/LoliKillers/lolkil-scraper.git"
+    "url": "git://github.com/RullDev/rullzz-scrapper.git"
   },
   "keywords": [
     "api",
@@ -19,12 +19,12 @@
     "javscript",
     "yarn"
   ],
-  "author": "LoliKillers",
+  "author": "MasRull",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/LoliKillers/lolkil-scraper/issues"
+    "url": "https://github.com/RullDev/rullzz-scrapper/issues"
   },
-  "homepage": "https://github.com/LoliKillers/lolkil-scraper#readme",
+  "homepage": "https://github.com/RullDev/rullzz-scrapper#readme",
   "dependencies": {
     "axios": "^0.27.2",
     "cheerio": "^1.0.0-rc.12",
