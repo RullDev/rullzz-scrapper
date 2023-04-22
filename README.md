@@ -40,4 +40,4 @@ Usage
 var RullzzScraper = require('rullzz-scrapper')
 
 ```
-### Anime
+### ✨Created By MasRull><
