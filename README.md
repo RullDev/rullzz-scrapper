@@ -22,6 +22,9 @@ yarn add github:RullDev/rullzz-scrapper
 
 [![NPM](https://img.shields.io/badge/npm-362a63?style=for-the-badge&logo=npm&logoColor=green)](https://www.npmjs.com/package/rullzz-scrapper)
 
+>#Update!
+* [Downloader Joox]
+
 # List Scraper
 * [Anime](#anime)
 * [Downloader](#downloader)
@@ -37,7 +40,7 @@ yarn add github:RullDev/rullzz-scrapper
 
 Usage
 ```js
-var RullzzScraper = require('rullzz-scrapper')
+var Rullzz-Scrapper = require('rullzz-scrapper')
 
 ```
 ### ✨Created By MasRull><
