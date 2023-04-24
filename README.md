@@ -22,8 +22,8 @@ yarn add github:RullDev/rullzz-scrapper
 
 [![NPM](https://img.shields.io/badge/npm-362a63?style=for-the-badge&logo=npm&logoColor=green)](https://www.npmjs.com/package/rullzz-scrapper)
 
->#Update!
-* [Downloader Joox]
+# Update!
+* [Downloader Joox](#downloader)
 
 # List Scraper
 * [Anime](#anime)
